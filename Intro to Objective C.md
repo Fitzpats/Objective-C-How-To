@@ -13,8 +13,9 @@
   web scources as necessary. 
   
   
-  ##Scources: 
+##Scources: 
   
   https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
   
   https://en.wikipedia.org/wiki/Objective-C#Analysis_of_the_language
+ 
