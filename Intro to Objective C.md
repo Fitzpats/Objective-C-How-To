@@ -1,4 +1,4 @@
-Objective C
+#Objective C
 
   Objective C was created by Tom Love and Brad Cox at Stepstone in the early 80's. It was invented to add Smalltalk's capabilities to C,
   and created an object oriented extention to C. It is a compiled programing language, and it uses virtual machines. Objective C is used 
@@ -13,7 +13,7 @@ Objective C
   web scources as necessary. 
   
   
-  Scources: 
+  ##Scources: 
   
   https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
   
