@@ -87,11 +87,11 @@ If you completoly want to exit the loop if a situation happenes you can use a br
             if(x==3){
                 x=10;
                 continue;
-                NSLog (@"this will never be printed");}
+                NSLog (@"this will never be printed, but this loop will continue");}
             if(x==15){
-                NSLog (@"i'b bores let's end this loop");
+                NSLog (@"i'm bored let's end this loop");
                 break;
-                NSLog (@"this will never be printed");}
+                NSLog (@"this will never be printed and the loop is ended");}
         
             ++count; 
         }
