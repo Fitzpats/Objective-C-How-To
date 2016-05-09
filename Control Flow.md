@@ -62,6 +62,7 @@ Here is an example of a for loop:
 A for loop is best used when you need to do something a set number of times. In this case it's n times. 
 
 Here is an example of a do loop: 
+
         do {
             
             NSLog (@"this do while loop is in rotation %i", number);
@@ -71,6 +72,7 @@ Here is an example of a do loop:
 A do loop is best used when you want to check a statement at the end of a loop. 
 
 Here is an example of a while loop: 
+
         while ( count <= 5 ) {
             NSLog (@"This while loop is on rotation %i", count);
             ++count; //you have to increment the while loop inside of the loop
@@ -79,6 +81,7 @@ A while loop is best used when you want to check a condition at the begining of 
 
 If you're writing a loop and you have a situation where you want to skip just part of a code and then continue the rest of the revolutions of a loop you could use a continue statement. 
 If you completoly want to exit the loop if a situation happenes you can use a break statement to exit it. here is an example of code doing this: 
+
         while ( x <= 20 ) {
             NSLog (@"This while loop is on rotation %i", x);
             if(x==3){
